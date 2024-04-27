@@ -25,15 +25,15 @@ Your work will result in:
 
 ## Creating the `greeter` function
 
-- [ ] Within `index.js`, there is a function named `greeter` that accepts the parameter `name`.
-- [ ] Within `greeter`'s code block, create an `if` statement whose conditional statement checks if `name`'s value is that of an enemy.
-- [ ] Within this `if` statement's code block, add a console log telling your enemy to "Go away!"
-- [ ] At the end of the `if` block, add an `else` whose code block contains a console log. This console log should concatenate "Hello, " and `name` into a friendly greeting.
+- [/] Within `index.js`, there is a function named `greeter` that accepts the parameter `name`.
+- [/] Within `greeter`'s code block, create an `if` statement whose conditional statement checks if `name`'s value is that of an enemy.
+- [/] Within this `if` statement's code block, add a console log telling your enemy to "Go away!"
+- [/] At the end of the `if` block, add an `else` whose code block contains a console log. This console log should concatenate "Hello, " and `name` into a friendly greeting.
 
 ## Calling the `greeter` function
 
-- [ ] Below `greeter`'s code block, make multiple calls of `greeter` to test if your function recognizes the name of an enemy versus the name of anyone else.
-- [ ] With the `node` command, run `index.js`  in your terminal to see the result.
+- [/] Below `greeter`'s code block, make multiple calls of `greeter` to test if your function recognizes the name of an enemy versus the name of anyone else.
+- [/] With the `node` command, run `index.js`  in your terminal to see the result.
 
 
 # Review

@@ -1,6 +1,6 @@
 function greeter(name) {
   // Your code goes here
-  if (name == "Darth Vader" || name == "Thanos") {
+  if (name == "Joker" || name == "Voldemort") {
     console.log("Go away" + " " + name + "!");
   } else {
     console.log("Hello my good friend," + name)
@@ -9,5 +9,7 @@ function greeter(name) {
 
 greeter("Luc");
 
-greeter("Darth Vader")
+greeter("Voldemort");
+
+greeter("Joker")
 
